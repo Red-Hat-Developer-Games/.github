@@ -1,12 +1,4 @@
-## Hi there 👋
+![developerGamesBanner](https://user-images.githubusercontent.com/233499/134172890-ab6013d7-496c-4bed-9215-7019a2d46bca.png)
 
-<!--
+## Red Hat Developer Games. 6 Challenges for dynamic learning and healthy competition to encourage innovation.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
