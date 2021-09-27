@@ -9,5 +9,3 @@ Challenges include the following technologies:
 * [Boosting the Performance and Availability](https://github.com/Red-Hat-Developer-Games/spring-boot-datagrid-challenge)
 * [Event-Driven Architecture](https://github.com/Red-Hat-Developer-Games/eda-challenge)
 * [Discount Codes Microservices challenge](https://github.com/Red-Hat-Developer-Games/discount-codes-quarkus-datagrid-challenge)
-
-:spar
