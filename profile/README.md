@@ -8,4 +8,5 @@ Challenges include the following technologies:
 * [Generate OpenShift manifests](https://github.com/Red-Hat-Developer-Games/dekorate-challenge)
 * [Boosting the Performance and Availability](https://github.com/Red-Hat-Developer-Games/spring-boot-datagrid-challenge)
 * [Event-Driven Architecture](https://github.com/Red-Hat-Developer-Games/eda-challenge)
+* [Deploy your API](https://github.com/Red-Hat-Developer-Games/3scale-challenge)
 * [Discount Codes Microservices challenge](https://github.com/Red-Hat-Developer-Games/discount-codes-quarkus-datagrid-challenge)
